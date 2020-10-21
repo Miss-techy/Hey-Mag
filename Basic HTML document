@@ -4,8 +4,8 @@
 <html>
 <head>
 	<title>BOOK</title>
-	<link rel="stylesheet" href="book.css">
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="book.css"/>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     
 </head>
 
